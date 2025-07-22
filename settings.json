@@ -25,6 +25,7 @@
     "extensions.autoCheckUpdates": false,
     "extensions.autoUpdate": false,
     "breadcrumbs.enabled": false,
+    //Thanks to the Catppuccin theme for the pastel color scheme that is being used here
     "workbench.colorCustomizations": {
         "actionBar.toggledBackground": "#525761",
         "activityBar.background": "#1e2127",
@@ -211,4 +212,6 @@
     "chat.mcp.discovery.enabled": false,
     "chat.mcp.enabled": false,
     "chat.sendElementsToChat.enabled": false,
+    "rust-analyzer.restartServerOnConfigChange": true,
+    "rust-analyzer.testExplorer": true,
 }
